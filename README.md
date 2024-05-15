@@ -17,5 +17,5 @@ This project involves developing a Campus Management System using the PERN (Post
 1. Clone repository
 2. Ensure you have all packages installed (run npm i)
 3. Ensure you have Postgres installed
-4. Configure your Postgres password in configDB.js
+4. Configure your own Postgres password in database/utils/configDB.js on line 9.
 5. Run npm start and watch the database be seeded with information!
