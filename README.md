@@ -11,3 +11,11 @@ This project involves developing a Campus Management System using the PERN (Post
 ### Group Members:
 *	Zara Amer - Github username: zaraamerr
 *	Fatima Asif - Github username: fatimasif
+
+----------
+### How to Run:
+1. Clone repository
+2. Ensure you have all packages installed (run npm i)
+3. Ensure you have Postgres installed
+4. Configure your Postgres password in configDB.js
+5. Run npm start and watch the database be seeded with information!
